@@ -1,0 +1,24 @@
+{
+  "message": "township data has been retrieved successfully",
+  "data": {
+    "options": [
+      {
+        "pcode": "013008",
+        "name": "Hlaingtharya"
+      },
+      {
+        "pcode": "013007",
+        "name": "Shwepyithar"
+      },
+      {
+        "pcode": "013046",
+        "name": "Hlaingtharya (East)"
+      },
+      {
+        "pcode": "013047",
+        "name": "Hlaingtharya (West)"
+      }
+    ]
+  },
+  "meta": []
+}

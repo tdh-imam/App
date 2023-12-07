@@ -1,0 +1,27 @@
+{
+  "message": "enums data has been retrieved successfully",
+  "data": {
+    "options": {
+      "screening_type": ["Active Screening", "Passive Screening"],
+      "type": ["Boy", "Girl", "Pregnant Woman or Girl", "Breastfeeding Woman or Girl"],
+      "gender": ["Male", "Female"],
+      "age_group": ["6-23 Months", "24-59 Months", "12-17 Years", "18-59 Years"],
+      "yes_no": ["Yes", "No"],
+      "donar": ["WFP", "UNICEF", "Other"],
+      "wfh_zscore": ["SAM", "MAM", "Normal"],
+      "appetite_test": ["Pass", "Fail"],
+      "bilateral_pitting_odema": ["1", "2", "3", "No Bilateral Pitting Oedema"],
+      "immunization_status": ["Complete", "Ongoing", "Not Received Yet"],
+      "type_of_case": ["SAM with Complication", "SAM without Complication", "MAM", "No Acute Malnutrition"],
+      "case_category": ["SAM Refer to OTP", "SAM with Complication Refer to ITP", "MAM Refer to SFP"],
+      "category_of_criteria": ["New", "Relapse", "Return NR", "Return Default", "Transfer in OTP", "Transfer from TSFP"],
+      "criteria_group": ["Default", "New", "Relapse", "Transfer"],
+      "discharge_status": ["Cured", "Death (Nut)", "Death (Oth)", "Default", "Non-respondent", "Transfer to ITP", "Transfer to OTP", "Transfer to other SFP", "Reg Mistake", "Medical transfer", "Refuse to referral"],
+      "discharge_category": ["Cured", "Default", "Non-respondent", "Death", "Transfer to ITP", "Transfer to OTP", "Transfer to other SFP", "Other Exit"],
+      "discharge_with": ["MUAC", "Z Score", "Both MUAC & Z Score"],
+      "food": ["RUSF", "WSB+", "Not Provided"],
+      "follow_up_result": ["Complete Follow Up", "Continue Follow Up"]
+    }
+  },
+  "meta": []
+}
