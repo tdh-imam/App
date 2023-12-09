@@ -10,8 +10,6 @@ Header set Expires "Wed, 11 Jan 1984 05:00:00 GMT"
   Header set Access-Control-Allow-Origin "*"
 </Files>
 
-RedirectMatch 404 /\.git
-
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
