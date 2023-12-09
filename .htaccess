@@ -9,3 +9,16 @@ Header set Expires "Wed, 11 Jan 1984 05:00:00 GMT"
 <Files "*.json">
   Header set Access-Control-Allow-Origin "*"
 </Files>
+
+RedirectMatch 404 /\.git
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Redirect all requests to index.html
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
