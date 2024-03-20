@@ -20,7 +20,7 @@
       "discharge_category": ["Cured", "Default", "Non-respondent", "Death", "Transfer to ITP", "Transfer to OTP", "Transfer to other SFP", "Other Exit"],
       "discharge_with": ["MUAC", "Z Score", "Both MUAC & Z Score"],
       "food": ["RUSF", "WSB+", "Not Provided"],
-      "follow_up_result": ["Complete Follow Up", "Continue Follow Up"]
+      "follow_up_result": ["Complete Follow Up", "Continue Follow Up", "Loss to Follow Up"]
     }
   },
   "meta": []
