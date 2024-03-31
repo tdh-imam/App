@@ -3,20 +3,239 @@
   "data": {
     "options": [
       {
+        "pcode": "013037",
+        "name": "Ahlone",
+        "name_mm": "အလုံ"
+      },
+      {
+        "pcode": "013044",
+        "name": "Bahan",
+        "name_mm": "ဗဟန်း"
+      },
+      {
+        "pcode": "013017",
+        "name": "Botahtaung",
+        "name_mm": "ဗိုလ်တစ်ထောင်"
+      },
+      {
+        "pcode": "013032",
+        "name": "Cocokyun",
+        "name_mm": "ကိုကိုးကျွန်း"
+      },
+      {
+        "pcode": "013043",
+        "name": "Dagon",
+        "name_mm": "ဒဂုံ"
+      },
+      {
+        "pcode": "013020",
+        "name": "Dagon Myothit (East)",
+        "name_mm": "ဒဂုံမြို့သစ် အရှေ့ပိုင်း"
+      },
+      {
+        "pcode": "013019",
+        "name": "Dagon Myothit (North)",
+        "name_mm": "ဒဂုံမြို့သစ် မြောက်ပိုင်း"
+      },
+      {
+        "pcode": "013021",
+        "name": "Dagon Myothit (Seikkan)",
+        "name_mm": "ဒဂုံမြို့သစ် ဆိပ်ကမ်း"
+      },
+      {
+        "pcode": "013018",
+        "name": "Dagon Myothit (South)",
+        "name_mm": "ဒဂုံမြို့သစ် တောင်ပိုင်း"
+      },
+      {
+        "pcode": "013030",
+        "name": "Dala",
+        "name_mm": "ဒလ"
+      },
+      {
+        "pcode": "013014",
+        "name": "Dawbon",
+        "name_mm": "ဒေါပုံ"
+      },
+      {
+        "pcode": "013040",
+        "name": "Hlaing",
+        "name_mm": "လှိုင်"
+      },
+      {
         "pcode": "013008",
-        "name": "Hlaingtharya"
+        "name": "Hlaingtharya",
+        "name_mm": "လှိုင်သာယာ"
+      },
+      {
+        "pcode": "013004",
+        "name": "Hlegu",
+        "name_mm": "လှည်းကူး"
+      },
+      {
+        "pcode": "013003",
+        "name": "Hmawbi",
+        "name_mm": "မှော်ဘီ"
+      },
+      {
+        "pcode": "013006",
+        "name": "Htantabin",
+        "name_mm": "ထန်းတပင်"
+      },
+      {
+        "pcode": "013001",
+        "name": "Insein",
+        "name_mm": "အင်းစိန်"
+      },
+      {
+        "pcode": "013041",
+        "name": "Kamaryut",
+        "name_mm": "ကမာရွတ်"
+      },
+      {
+        "pcode": "013028",
+        "name": "Kawhmu",
+        "name_mm": "ကော့မှူး"
+      },
+      {
+        "pcode": "013026",
+        "name": "Kayan",
+        "name_mm": "ခရမ်း"
+      },
+      {
+        "pcode": "013029",
+        "name": "Kungyangon",
+        "name_mm": "ကွမ်းခြံကုန်း"
+      },
+      {
+        "pcode": "013033",
+        "name": "Kyauktada",
+        "name_mm": "ကျောက်တံတား"
+      },
+      {
+        "pcode": "013024",
+        "name": "Kyauktan",
+        "name_mm": "ကျောက်တန်း"
+      },
+      {
+        "pcode": "013038",
+        "name": "Kyeemyindaing",
+        "name_mm": "ကြည့်မြင်တိုင်"
+      },
+      {
+        "pcode": "013035",
+        "name": "Lanmadaw",
+        "name_mm": "လမ်းမတော်"
+      },
+      {
+        "pcode": "013036",
+        "name": "Latha",
+        "name_mm": "လသာ"
+      },
+      {
+        "pcode": "013042",
+        "name": "Mayangone",
+        "name_mm": "မရမ်းကုန်း"
+      },
+      {
+        "pcode": "013002",
+        "name": "Mingaladon",
+        "name_mm": "မင်္ဂလာဒုံ"
+      },
+      {
+        "pcode": "013022",
+        "name": "Mingalartaungnyunt",
+        "name_mm": "မင်္ဂလာတောင်ညွန့်"
+      },
+      {
+        "pcode": "013012",
+        "name": "North Okkalapa",
+        "name_mm": "မြောက်ဥက္ကလာပ"
+      },
+      {
+        "pcode": "013034",
+        "name": "Pabedan",
+        "name_mm": "ပန်းဘဲတန်း"
+      },
+      {
+        "pcode": "013016",
+        "name": "Pazundaung",
+        "name_mm": "ပုဇွန်တောင်"
+      },
+      {
+        "pcode": "013039",
+        "name": "Sanchaung",
+        "name_mm": "စမ်းချောင်း"
+      },
+      {
+        "pcode": "013031",
+        "name": "Seikgyikanaungto",
+        "name_mm": "ဆိပ်ကြီးခနောင်တို"
+      },
+      {
+        "pcode": "013045",
+        "name": "Seikkan",
+        "name_mm": "ဆိပ်ကမ်း"
       },
       {
         "pcode": "013007",
-        "name": "Shwepyithar"
+        "name": "Shwepyithar",
+        "name_mm": "ရွှေပြည်သာ"
+      },
+      {
+        "pcode": "013011",
+        "name": "South Okkalapa",
+        "name_mm": "တောင်ဥက္ကလာပ"
+      },
+      {
+        "pcode": "013005",
+        "name": "Taikkyi",
+        "name_mm": "တိုက်ကြီး"
+      },
+      {
+        "pcode": "013015",
+        "name": "Tamwe",
+        "name_mm": "တာမွေ"
+      },
+      {
+        "pcode": "013013",
+        "name": "Thaketa",
+        "name_mm": "သာကေတ"
+      },
+      {
+        "pcode": "013023",
+        "name": "Thanlyin",
+        "name_mm": "သန်လျင်"
+      },
+      {
+        "pcode": "013009",
+        "name": "Thingangyun",
+        "name_mm": "သင်္ကန်းကျွန်း"
+      },
+      {
+        "pcode": "013025",
+        "name": "Thongwa",
+        "name_mm": "သုံးဂွ"
+      },
+      {
+        "pcode": "013027",
+        "name": "Twantay",
+        "name_mm": "တွံတေး"
+      },
+      {
+        "pcode": "013010",
+        "name": "Yankin",
+        "name_mm": "ရန်ကင်း"
       },
       {
         "pcode": "013046",
-        "name": "Hlaingtharya (East)"
+        "name": "Hlaingtharya (East)",
+        "name_mm": "လှိုင်သာယာ အရှေ့"
       },
       {
         "pcode": "013047",
-        "name": "Hlaingtharya (West)"
+        "name": "Hlaingtharya (West)",
+        "name_mm": "လှိုင်သာယာ အနောက်"
       }
     ]
   },
