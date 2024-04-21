@@ -9,7 +9,7 @@
       "yes_no": ["Yes", "No"],
       "donar": ["WFP", "UNICEF", "Other"],
       "wfh_zscore": ["SAM <-3", "MAM ≥-3 and <-2", "Normal ≥-2"],
-      "appetite_test": ["Passed", "Failed", "N/A"],
+      "appetite_test": ["Pass", "Fail", "N/A"],
       "bilateral_pitting_odema": ["1", "2", "3", "No Bilateral Pitting Oedema"],
       "immunization_status": ["Complete", "Ongoing", "Not Received Yet"],
       "type_of_case": ["New", "Old"],
