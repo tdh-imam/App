@@ -1,0 +1,1 @@
+import{_ as e,o as s,c,P as t,Q as a,a as _}from"./index-bb2ee193.js";const n={},d=o=>(t("data-v-a295628b"),o=o(),a(),o),i={class:"custom-loading"},p=d(()=>_("div",{class:"custom-loading-content"},null,-1)),r=[p];function l(o,u){return s(),c("div",i,r)}const m=e(n,[["render",l],["__scopeId","data-v-a295628b"]]);export{m as L};
